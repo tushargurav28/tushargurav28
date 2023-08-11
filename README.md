@@ -4,7 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🔐 Cyber Security Enthusiast | Ethical Hacker | MERN Stack Developer | CEH & OSCP Aspirant | Top 1% on TryHackMe 🏆
 -------------------------------------------------------------------------------------------------------------------
 
-🎓 Final year MCA student | Self-taught in Cybersecurity and Ethical Hacking | Proficient in Python, Java, and JavaScript | Skilled in crafting dynamic websites with the MERN stack (MongoDB, Express.js, React.js, Node.js). 💡 200+ labs completed on portswigger.net/web-security/, honing expertise in web security | Adept in Database Management Systems, Operating Systems, and Computer Networking. 🚀 Passionate about continuous learning and preparing for CEH (Certified Ethical Hacker) and OSCP exams to push boundaries in the world of cybersecurity. 🔥 Master in Linux Operating System | Firewall Configuration | Proficient with Burp Suite, Wireshark, Nmap, Metasploit, Nessus, and other essential tools for penetration testing and ethical hacking. Let's connect and collaborate on cybersecurity challenges and projects! 🔐 #Cybersecurity #EthicalHacking #MERNStack #CEH #OSCP #InfoSec #Pentesting #Linux #Firewall
+🎓 Final year MCA student | Self-taught in Cybersecurity and Ethical Hacking | Proficient in Python, Java, and JavaScript | Skilled in crafting dynamic websites with the MERN stack (MongoDB, Express.js, React.js, Node.js). 
+
+💡 200+ labs completed on portswigger.net/web-security/, honing expertise in web security | Adept in Database Management Systems, Operating Systems, and Computer Networking. 
+
+🚀 Passionate about continuous learning and preparing for CEH (Certified Ethical Hacker) and OSCP exams to push boundaries in the world of cybersecurity. 
+
+🔥 Master in Linux Operating System | Firewall Configuration | Proficient with Burp Suite, Wireshark, Nmap, Metasploit, Nessus, and other essential tools for penetration testing and ethical hacking. Let's connect and collaborate on cybersecurity challenges and projects! 
+
+🔐 #Cybersecurity #EthicalHacking #MERNStack #CEH #OSCP #InfoSec #Pentesting #Linux #Firewall
 
 * 🌍  I'm based in india 🇮🇳
 * ✉️  You can contact me at [guravtushar231@gmail.com](mailto:guravtushar231@gmail.com)
