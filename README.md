@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tusharg75983548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tusharg75983548" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tushargurav-infosec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushargurav-infosec" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tushar-gurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushargurav-infosec" height="30" width="40" /></a>
 <a href="https://instagram.com/tusshar.sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar.evilscript" height="30" width="40" /></a>
 </p>
 
